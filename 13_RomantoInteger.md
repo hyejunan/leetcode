@@ -36,3 +36,8 @@ var romanToInt = function(s) {
     return res;
 };
 ```
+
+3999 / 3999 test cases passed.
+Status: Accepted
+Runtime: 156 ms
+Memory Usage: 44.9 MB
