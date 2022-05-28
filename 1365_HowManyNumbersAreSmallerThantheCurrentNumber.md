@@ -22,3 +22,8 @@ class Solution {
     }
 }
 ```
+
+103 / 103 test cases passed.
+Status: Accepted
+Runtime: 15 ms
+Memory Usage: 44.5 MB
